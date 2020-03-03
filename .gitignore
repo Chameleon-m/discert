@@ -15,3 +15,5 @@
 # vendor/
 
 /apiserver
+/runtime/cookie
+/runtime/mysql/data
